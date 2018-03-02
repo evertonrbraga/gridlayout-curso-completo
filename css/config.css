@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.cx {
+    padding: 1em;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000;
+    /* border: 1px solid red; */
+}
+
+.cx-1 {
+    background-color: #FAE862;
+}
+
+.cx-2 {
+    background-color: #EBD339;
+}
+
+.cx-3 {
+    background-color: #C29F2A;
+}
+
+.cx-4 {
+    background-color: #F8AE4E;
+}
+
+.cx-5 {
+    background-color: #F07825;
+}
+
+.cx-6 {
+    background-color: #CA5B1C;
+}
+
+.cx-7 {
+    background-color: #E6B875;
+}
+
+.cx-8 {
+    background-color: #BE7C28;
+}
+
+.cx-9 {
+    background-color: #8C5816;
+}
+
+.cx-10 {
+    background-color: #8EE14C;
+}
+
+.cx-11 {
+    background-color: #78D239;
+}
+
+.cx-12 {
+    background-color: #529925;
+}
+
+.cx-13 {
+    background-color: #76A0CD;
+}
+
+.cx-14 {
+    background-color: #3A66A1;
+}
+
+.cx-15 {
+    background-color: #264B84;
+}
+
+.cx-16 {
+    background-color: #AB7FA6;
+}
+
+.cx-17 {
+    background-color: #735079;
+}
+
+.cx-18 {
+    background-color: #5B3664;
+}
+
+.cx-19 {
+    background-color: #EA2731;
+}
+
+.cx-20 {
+    background-color: #C70011;
+}
+
+.cx-21 {
+    background-color: #A0000B;
+}
+

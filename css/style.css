@@ -1,0 +1,32 @@
+@import url('config.css');
+
+.grid-container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 10px 1fr 1fr 1fr 10px 1fr;
+    grid-template-rows: 1fr 3fr 1fr;
+    grid-row-gap: 10px;
+    grid-template-areas: 
+        "cabecalho cabecalho cabecalho cabecalho cabecalho cabecalho cabecalho"
+        "sidebar-esq . conteudo conteudo conteudo . sidebar-dir"
+        "rodape rodape rodape rodape rodape rodape rodape"
+    ;
+}
+.cx-1 {
+    grid-area: cabecalho;
+}
+.cx-2 {
+    grid-area: sidebar-esq;
+}
+.cx-3 {
+    grid-area: conteudo;
+}
+.cx-4 {
+    grid-area: sidebar-dir;
+}
+.cx-5 {
+    grid-area: rodape;
+}
+
+
+
